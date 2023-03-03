@@ -31,7 +31,7 @@ const MenuWrap = styled.div`
   /* width: 750px; */
   /* display: flex;
   justify-content: center;
-  align-items: center; */
+  /* align-items: center; */ 
   text-align: center;
 `;
 const Menu = styled.div`
